@@ -2,7 +2,7 @@
 //  Earthquake.swift
 //  QuakeList
 //
-//  Created by Kaitlyn Wright on 1/29/19.
+//  Created by Kaitlyn Wright on 1/30/19.
 //  Copyright © 2019 Kaitlyn Wright. All rights reserved.
 //
 
