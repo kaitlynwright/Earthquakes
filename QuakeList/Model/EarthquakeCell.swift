@@ -10,5 +10,8 @@ import Foundation
 import UIKit
 
 class EarthquakeCell: UITableViewCell {
+    @IBOutlet weak var magnitudeLabel: UILabel!
+    @IBOutlet weak var locationLabel: UILabel!
+    @IBOutlet weak var timeLabel: UILabel!
     
 }
